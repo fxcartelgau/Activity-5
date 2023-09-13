@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,100;1,200&display=swap');
+
+h3 {
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center !important;
+}
+
+p {
+  background-color: beige;
+  color: blue;
+  font-size: 2vw;
+  font-family: serif;
+}
+
+footer {
+  background-color: black;
+  color: azure;
+  font-size: 1vw;
+  font-family: fantasy;
+  text-align: center;
+}
+
+body {
+  background-color: beige;
+}
+
+#unique {
+  background-color: red;
+}
+
+.yellowbackground {
+  background-color: yellow;
+  color: azure;
+}
+
+#videos {
+  background-color: red;
+  color: azure;
+}
+
+.redbackground {
+  background-color: lightblue;
+  color: azure;
+}
+
+header {
+  text-align: center;
+}
